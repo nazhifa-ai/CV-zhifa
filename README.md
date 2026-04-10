@@ -1,4 +1,4 @@
-    <!DOCTYPE html>
+    
 <html lang="id">
 <head>
     <meta charset="UTF-8">
@@ -43,7 +43,7 @@
         </div>
         <div class="section">
             <h2>PENGALAMAN KERJA</h2>
-            <div class="item"><strong>2023 - Sekarang</strong>: Pelajar <br>
+            <div class="item"><strong>2021 - Sekarang</strong>: Pelajar <br>
               
             </div>
         </div>
