@@ -28,16 +28,16 @@
 
         <div class="section">
             <h2>DATA PRIBADI</h2>
-            <div class="item"><strong>Tempat, Tgl Lahir</strong>: soronanggan, 15 Mei 2009</div>
-            <div class="item"><strong>Jenis Kelamin</strong>:  Perempuan</div>
-            <div class="item"><strong>Agama</strong>: Islam</div>
-            <div class="item"><strong>Status</strong>: Pelajar </div>
+            <div class="item"><strong>Tempat, Tgl Lahir</strong> :soronanggan, 15 Mei 2009</div>
+            <div class="item"><strong>Jenis Kelamin</strong> :Perempuan</div>
+            <div class="item"><strong>Agama</strong> :Islam</div>
+            <div class="item"><strong>Status</strong> :Pelajar </div>
         </div>
 
         <div class="section">
             <h2>PENDIDIKAN</h2>
-            <div class="item"><strong>2015 - 2021</strong>: MI Maulana Maghribi XXX</div>
-            <div class="item"><strong>2021- 2024</strong>: SMPN 2 Pundong</div>
+            <div class="item"><strong>2015 - 2021</strong> :MI Maulana Maghribi</div>
+            <div class="item"><strong>2021- 2024</strong> :SMPN 2 Pundong</div>
         </div>
 <div class="item"><strong>2024- 2027</strong>: SMKN 1 SANDEN</div>
         </div>
