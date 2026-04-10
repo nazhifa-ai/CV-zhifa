@@ -56,7 +56,6 @@
                 <li>Programming: HTML, CSS, Python</li>
             </ul>
         </div>
-    </div>
 </body>
 </html>
 
