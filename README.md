@@ -31,7 +31,7 @@
             <div class="item"><strong>Tempat, Tgl Lahir</strong> :soronanggan, 15 Mei 2009</div>
             <div class="item"><strong>Jenis Kelamin</strong> :Perempuan</div>
             <div class="item"><strong>Agama</strong> :Islam</div>
-            <div class="item"><strong>Status</strong> :Pelajar </div>
+            <div class="item"><strong>Status</strong>  :Pelajar </div>
         </div>
 
         <div class="section">
