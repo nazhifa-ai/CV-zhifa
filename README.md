@@ -51,9 +51,9 @@
         <div class="section">
             <h2>KEAHLIAN</h2>
             <ul>
-                <li>Microsoft Office: Word, Excel, PowerPoint</li>
-                <li>Desain: Canva, Photoshop</li>
-                <li>Programming: HTML, CSS, Python</li>
+                <li>Microsoft Office: word, Excel, powerpoint</li>
+                <li>Desain: Canva,</li>
+                <li>Programming: HTML, CSS, PHP</li>
             </ul>
         </div>
 </body>
